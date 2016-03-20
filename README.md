@@ -3,7 +3,7 @@ TJLUG BBS
 
 <img src="./img/tjlugLogo_300x300.png" alt="TJLUG LOGO" />
 
-TJLUG的BBS。
+天津Linux用户组的Git BBS。
 
 突然想到用Git来运行去中心化的BBS系统，用起来应该还是很有趣的。
 
