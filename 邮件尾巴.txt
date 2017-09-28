@@ -1,15 +1,4 @@
 这是一封来自TJLUG (Tianjin Linux User Group) 的邮件。
 您收到此信息是由于您订阅了 Google 论坛“TJLUG”论坛。
 要在此论坛发帖，请发送或回复电子邮件到 tjlug@googlegroups.com
-
-其他资源
-Google Group：http://groups.google.com/group/tjlug?hl=zh-CN
-Site: https://github.com/TJLUG/TJLUG-BBS
-Github: https://github.com/TJLUG
-Twitter ID：TianjinLUG
-
-（招募管理者）文件归档：http://code.google.com/p/tjlug/
-（招募管理者）人人公共主页：http://page.renren.com/601037199
-（招募管理者）豆瓣小组：http://www.douban.com/group/tjlug/
-
-有意向参与管理或者开发请直接将邮件发送至group，注明感兴趣的工作即可。
+详情见信息页： https://github.com/TJLUG/TJLUG-BBS

@@ -31,3 +31,17 @@ INFO
 * [16年4月活动](16年4月活动.md)
 * [16年3月活动](16年3月活动.md)
 * [15年SFD烧烤派对](15年SFD烧烤派对.md)
+
+
+其他资源
+--------
+
+Google Group：http://groups.google.com/group/tjlug?hl=zh-CN
+Github: https://github.com/TJLUG
+Twitter ID：TianjinLUG
+
+（招募管理者）文件归档：http://code.google.com/p/tjlug/
+（招募管理者）人人公共主页：http://page.renren.com/601037199
+（招募管理者）豆瓣小组：http://www.douban.com/group/tjlug/
+
+有意向参与管理或者开发请直接将邮件发送至邮件列表，注明感兴趣的工作即可。
