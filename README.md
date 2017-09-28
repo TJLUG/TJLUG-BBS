@@ -19,9 +19,8 @@ INFO
 	- 订阅：tjlug+subscribe@googlegroups.com
 * **IRC: #tjlug@irc.freenode.net**
 	- 用[midymidytgbot](https://github.com/MidyMidy-MC/midymidytgbot)和Telegram群相连接
-* 有一个微信群
-	- 由于被大规模SPAM过，所以不给二维码，可以先加入邮件列表，或者是让群里面的人拉你进来
-	- 为了“追求自由开放，传承社区文化”，我们决定，转向IRC+Telegram
+* [Telegram](https://t.me/joinchat/EU8VvwrsEpda-QdrkIqBrg)
+	- 为了“追求自由开放，传承社区文化”，我们决定从微信群转向IRC+Telegram
 
 活动通知及活动记录
 ------------------
