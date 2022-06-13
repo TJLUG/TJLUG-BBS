@@ -19,6 +19,7 @@ INFO
 	- 订阅：tjlug+subscribe@googlegroups.com
 * **IRC: #tjlug@[libera.chat](https://libera.chat/)**
   - 为了“追求自由开放，传承社区文化”，我们决定重新启动IRC
+* 微信群一直有在用的，如果要加入，发ISSUE让人拉你
 
 活动通知及活动记录
 ------------------
