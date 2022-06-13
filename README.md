@@ -17,8 +17,7 @@ INFO
 
 * 邮件列表：tjlug@googlegroups.com
 	- 订阅：tjlug+subscribe@googlegroups.com
-* **IRC: #tjlug@irc.freenode.net**
-	- 用[midymidytgbot](https://github.com/MidyMidy-MC/midymidytgbot)和Telegram群相连接
+* **IRC: #tjlug@[libera.chat](https://libera.chat/)**
 * [Telegram](https://t.me/joinchat/EU8VvwrsEpda-QdrkIqBrg)
 	- 为了“追求自由开放，传承社区文化”，我们决定从微信群转向IRC+Telegram
 
